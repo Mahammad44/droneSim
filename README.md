@@ -60,8 +60,9 @@ Telemetry data will be written to `telemetry.csv`.
 Open the Jupyter Notebook or use the provided Python script:
 
 ```bash
-python3 src/bin/visualize_telemetry.py
+python3 src/bin/visualize_telemetry.ipynb
 ```
+This will produce a .html file to view the simulated drone path.
 
 Or inside JupyterLab:
 
@@ -72,7 +73,7 @@ jupyter lab
 
 ### 📸 Preview
 
-(Add a screenshot of a graph here — e.g. `docs/telemetry_plot.png`)
+`docs/telemetry_plot.png`)
 
 ---
 
