@@ -73,7 +73,8 @@ jupyter lab
 
 ### 📸 Preview
 
-`docs/telemetry_plot.png`)
+![Telemetry Visualization](docs/telemetry_plot.png)
+
 
 ---
 
